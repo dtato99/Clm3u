@@ -1,6 +1,6 @@
 #EXTM3U
 
-###EXTINF:-1 tvg-id="" tvg-logo="" group-title="Pelis" tvg-chno="1",Peaky Blinders: El hombre inmortal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Pelis" tvg-chno="1",Peaky Blinders: El hombre inmortal
 http://streamingtv.vip:80/movie/LuisZambranoIPTVCLUB/9Y3kxM7T2N/474223.mp4
 
 #EXTINF:-1, ESPN PREMIUM CL
