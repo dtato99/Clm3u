@@ -5,3 +5,23 @@ http://planettvweb.com:8091/movie/pablotorres/Ferpab8719/147858.mkv
 
 #EXTINF:-1, ESPN PREMIUM CL
 http://217.26.190.76:8888/play/a0es/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svBWVF6y/unnamed.png" group-title="Argentina" tvg-chno="821", EVENTOS LPF PLAY 1
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/dba1733a-fa72-45f9-acc1-35e473bbc4a6/99f8bc19-d1f8-4cc5-9eba-859594053e15/2/streamPlaylist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svBWVF6y/unnamed.png" group-title="Argentina" tvg-chno="822", EVENTOS LPF PLAY 2
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/dba1733a-fa72-45f9-acc1-35e473bbc4a6/99f8bc19-d1f8-4cc5-9eba-859594053e15/master.m3u8
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/e2708c7c-0de4-4a5c-bb14-8e188827f19f/f82a1657-1b4a-4f6f-8d34-ccb3c7ab2d97/2/streamPlaylist.m3u8
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/8405a565-e652-43bb-a40e-7d6fb1167ddd/6f883652-1fae-4e89-b4c3-72527afa155b/2/streamPlaylist.m3u8
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/3b1c05f8-978b-4d16-80a4-4151b4411c74/fe4953bf-57c4-4755-8da9-d65074f191d4/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svBWVF6y/unnamed.png" group-title="Argentina" tvg-chno="823", EVENTOS LPF PLAY 3
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/dba1733a-fa72-45f9-acc1-35e473bbc4a6/99f8bc19-d1f8-4cc5-9eba-859594053e15/1/streamPlaylist.m3u8
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/e2708c7c-0de4-4a5c-bb14-8e188827f19f/f82a1657-1b4a-4f6f-8d34-ccb3c7ab2d97/1/streamPlaylist.m3u8
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/a6cc050e-cd18-4b47-a28b-7fe8352c41c2/ecc235c0-ff7d-4397-bcf1-9f8c9b91046c/2/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/svBWVF6y/unnamed.png" group-title="Argentina" tvg-chno="824", EVENTOS LPF PLAY 4
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/dba1733a-fa72-45f9-acc1-35e473bbc4a6/99f8bc19-d1f8-4cc5-9eba-859594053e15/0/streamPlaylist.m3u8
+https://liveassets.encoders.immergo.tv/lpf/s/am=0,s=ffd893bfa8a51aba8af3f01e7c0a707646ec186e4ac7391d5afc328c5d899372/uvod-live-encoder-assets-1/e2708c7c-0de4-4a5c-bb14-8e188827f19f/f82a1657-1b4a-4f6f-8d34-ccb3c7ab2d97/0/streamPlaylist.m3u8
+https://liveassets.encoders.immergo.tv/lpf/uvod-live-encoder-assets-1/f2245911-a2bb-4e0c-bf9b-58a5f6413c53/0b1e6e59-27b5-4b32-b0d8-5567d704bcd7/2/streamPlaylist.m3u8
