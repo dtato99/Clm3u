@@ -1,10 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1, TNT SPORTS PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://200.112.174.230/mtcast_tntsportshd/mpegts
 http://104.250.145.2:33731/
 
 #EXTINF:-1, ESPN PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://200.112.174.230/mtcast_espnpremiumhd/mpegts
 http://104.250.128.34:46059/
 
